@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://d3ns0n.github.io/recipes/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Unsere beliebtesten Rezepte'
 theme = 'gochowdown'
 defaultContentLanguage = "de"
 [[menu.main]]
@@ -11,7 +11,7 @@ url = "/"
 [[menu.main]]
 name = "Category"
 weight = 2
-url = "/category/"
+url = "/categories/"
 
 [[menu.main]]
 name = "Cuisine"

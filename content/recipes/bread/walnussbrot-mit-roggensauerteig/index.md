@@ -22,10 +22,13 @@ yield: 1 großer Laib mit ca 1.300 g
 prepTime: 16h - 20h
 cookTime: 1h
 
+components:
+- Anstellgut
+
 ingredients:
 - 275 g Roggenmehl 1150
 - 275 g Wasser
-- 20 g Anstellgut (Roggensauer)
+- 20 g Anstellgut
 - 525 g Weizenmehl 1050
 - 300 g Wasser
 - 15 g Salz

@@ -23,9 +23,12 @@ yield: "Kastenform 30cm"
 prepTime: 12h
 cookTime: 60m
 
+components:
+- Anstellgut
+
 ingredients:
 - 100 g Sonnenblumenkerne
-- 25 g Roggen- Anstellgut (Sauerteigstarter)
+- 25 g Anstellgut
 - 275 g Roggenvollkornmehl
 - 275 g Roggenmehl Type 1150
 - 18 g Salz

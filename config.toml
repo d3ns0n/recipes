@@ -1,24 +1,15 @@
-baseURL = 'https://d3ns0n.github.io/recipes/'
-languageCode = 'en-us'
+baseURL = 'https://d3ns0n.github.io/'
+languageCode = 'de-de'
 title = 'Unsere beliebtesten Rezepte'
 theme = 'gochowdown'
 defaultContentLanguage = "de"
+
 [[menu.main]]
 name = "Home"
 weight = 1
 url = "/"
 
 [[menu.main]]
-name = "Category"
-weight = 2
-url = "/categories/"
-
-[[menu.main]]
-name = "Cuisine"
-weight = 3
-url = "/cuisine/"
-
-[[menu.main]]
 name = "Tags"
-weight = 4
+weight = 2
 url = "/tags/"
